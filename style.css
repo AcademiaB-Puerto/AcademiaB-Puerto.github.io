@@ -8,4 +8,5 @@ body {
   position: absolute;
   background-size: cover;
   opacity: 0.2;
+  z-index: -1;
 }
