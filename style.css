@@ -1,1 +1,11 @@
 /*  */
+body {
+ 
+}
+
+.fondo {
+  background-image: url('logotipo-redondo-SIN FONDO.png');
+  position: absolute;
+  background-size: cover;
+  opacity: 0.2;
+}
